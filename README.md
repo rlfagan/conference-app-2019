@@ -1,4 +1,5 @@
 # ![](frontend/android/src/main/res/mipmap-hdpi/ic_launcher.png)DroidKaigi 2019 official Android app [![CircleCI](https://circleci.com/gh/DroidKaigi/conference-app-2019.svg?style=svg)](https://circleci.com/gh/DroidKaigi/conference-app-2019)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fconference-app-2019.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fconference-app-2019?ref=badge_shield)
 
 [DroidKaigi 2019](https://droidkaigi.jp/2019/en/) is a conference tailored for developers on 7th and 8th February 2019.
 
@@ -288,3 +289,7 @@ This project uses some modern Android libraries and source codes.
 * SwiftLint
 * LicensePlist
 * XLPagerTabStrip
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fconference-app-2019.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fconference-app-2019?ref=badge_large)
